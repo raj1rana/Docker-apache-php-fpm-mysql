@@ -20,7 +20,7 @@ services:
           - PHP_UPSTREAM_TIMEOUT=${APACHE_PHP_UPSTREAM_TIMEOUT}
           - DOCUMENT_ROOT=${APACHE_DOCUMENT_ROOT}
       volumes:
-        - ../:/var/www
+        - ../Docker-master/apache2/var/www:/var/www
         - ./logs/apache2:/var/log/apache2
         - ./apache2/sites:/etc/apache2/sites-available
       ports:
