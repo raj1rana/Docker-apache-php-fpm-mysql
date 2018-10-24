@@ -5,9 +5,9 @@
 <img src="https://user-images.githubusercontent.com/40059374/47410599-f8d20080-d783-11e8-9a63-2f0852572355.png" width="48" align="left">
 <img src="https://user-images.githubusercontent.com/40059374/47410815-a0e7c980-d784-11e8-8928-6905f2131502.png" width="48" align="left">
 
-<br>
- Hi
- you will get apache,php-fpm,mysql with this Docker repo.
+<p align="left">
+ Hi<br/>
+ you will get apache,php-fpm,mysql with this Docker repo.</p>
 
 
 
