@@ -1,6 +1,6 @@
 ![screenshot 2018-10-24 at 12 27 35 pm](https://user-images.githubusercontent.com/40059374/47412063-3c2e6e00-d788-11e8-9d2e-b891c7e72320.png)
 
-![images](https://user-images.githubusercontent.com/40059374/47410456-83fec680-d783-11e8-87ae-115bbe48e3b9.jpeg)
+![images](https://user-images.githubusercontent.com/40059374/47410456-83fec680-d783-11e8-87ae-115bbe48e3b9.jpeg){:height="24px" width="48px"}
 ![apache-server 1](https://user-images.githubusercontent.com/40059374/47410543-b6a8bf00-d783-11e8-88c6-d964fc35b2fa.png)
 ![php-logo-png-clipart](https://user-images.githubusercontent.com/40059374/47410599-f8d20080-d783-11e8-9a63-2f0852572355.png)
 ![download 1](https://user-images.githubusercontent.com/40059374/47410815-a0e7c980-d784-11e8-8928-6905f2131502.png)
